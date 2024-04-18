@@ -28,7 +28,7 @@
 
 ### Пример теста
 
-Вот пример теста для проверки метода `sortArray`:  
+Вот пример теста для проверки метода `longestPalindrome`:  
 ```java
     @Test
     void longestPalindrome() {

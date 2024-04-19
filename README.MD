@@ -21,7 +21,7 @@
 2. **Поиск**: методы для поиска элементов в массивах и структурах данных.
 3. **Обработка строк**: методы для работы со строками, включая поиск подстрок, конкатенацию и другие операции.
 4. **Другие алгоритмические задачи**: решения для задач, связанных с обработкой графов, деревьями и другими структурами данных.  
-список задач:  
+### Список задач:  
 ``Add Two Numbers, Balanced Binary Tree, Longest Common Prefix, Longest Palindromic Substring, Longest Substring Without Repeating Characters, 
 Median of Two Sorted Arrays, Merge Two Sorted Lists, Minimum Depth of Binary Tree, Palindrome Number, Remove Duplicates from Sorted List, 
 Reverse Integer, Roman to Integer, Search Insert Position, Single Number, String to Integer (atoi), Two Sum, Valid Parentheses,
